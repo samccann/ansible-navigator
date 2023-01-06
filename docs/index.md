@@ -4,7 +4,7 @@
 
 # Ansible Navigator Documentation
 
-`ansible-navigator` is a command based tool for creating, reviewing, and troubleshooting Ansible content, including inventories, playbooks, and collections.
+`ansible-navigator` is a command-based tool for creating, reviewing, and troubleshooting Ansible content, including inventories, playbooks, and collections.
 
 ```{include} ../README.md
 :start-after: (DO-NOT-REMOVE-docs-intro-START)
